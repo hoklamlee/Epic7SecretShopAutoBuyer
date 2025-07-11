@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|c:\\users\\hokla\\source\\repos\\epic7secretshopautobuyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|c:\\users\\hokla\\source\\repos\\epic7secretshopautobuyer\\clickinwindowdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|solutionrelative:clickinwindowdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|c:\\users\\hokla\\source\\repos\\epic7secretshopautobuyer\\mouseclickdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|solutionrelative:mouseclickdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|c:\\users\\hokla\\source\\repos\\epic7secretshopautobuyer\\delegatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|solutionrelative:delegatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|c:\\users\\hokla\\source\\repos\\epic7secretshopautobuyer\\epic7secretshopautobuyer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|solutionrelative:epic7secretshopautobuyer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|c:\\users\\hokla\\source\\repos\\epic7secretshopautobuyer\\models\\bestmatchlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E0B7F6-2B93-406C-A52D-1B0A1CAF8388}|Epic7SecretShopAutoBuyer.csproj|solutionrelative:models\\bestmatchlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DelegateList.cs",
+              "DocumentMoniker": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\DelegateList.cs",
+              "RelativeDocumentMoniker": "DelegateList.cs",
+              "ToolTip": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\DelegateList.cs",
+              "RelativeToolTip": "DelegateList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:36:59.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MouseClickDetector.cs",
+              "DocumentMoniker": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\MouseClickDetector.cs",
+              "RelativeDocumentMoniker": "MouseClickDetector.cs",
+              "ToolTip": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\MouseClickDetector.cs",
+              "RelativeToolTip": "MouseClickDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:35:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClickInWindowDetector.cs",
+              "DocumentMoniker": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\ClickInWindowDetector.cs",
+              "RelativeDocumentMoniker": "ClickInWindowDetector.cs",
+              "ToolTip": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\ClickInWindowDetector.cs",
+              "RelativeToolTip": "ClickInWindowDetector.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:29:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADgv8oAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T22:53:44.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Epic7SecretShopAutoBuyer",
+              "DocumentMoniker": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\Epic7SecretShopAutoBuyer.csproj",
+              "RelativeDocumentMoniker": "Epic7SecretShopAutoBuyer.csproj",
+              "ToolTip": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\Epic7SecretShopAutoBuyer.csproj",
+              "RelativeToolTip": "Epic7SecretShopAutoBuyer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T22:56:46.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BestMatchLocation.cs",
+              "DocumentMoniker": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\Models\\BestMatchLocation.cs",
+              "RelativeDocumentMoniker": "Models\\BestMatchLocation.cs",
+              "ToolTip": "C:\\Users\\hokla\\source\\repos\\Epic7SecretShopAutoBuyer\\Models\\BestMatchLocation.cs",
+              "RelativeToolTip": "Models\\BestMatchLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T23:31:59.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
